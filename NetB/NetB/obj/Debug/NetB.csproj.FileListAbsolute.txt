@@ -1,0 +1,5 @@
+C:\Users\liu\Desktop\CODE\MyMvcFrame\NetB\NetB\bin\Debug\NetB.dll
+C:\Users\liu\Desktop\CODE\MyMvcFrame\NetB\NetB\bin\Debug\NetB.pdb
+C:\Users\liu\Desktop\CODE\MyMvcFrame\NetB\NetB\obj\Debug\NetB.csprojResolveAssemblyReference.cache
+C:\Users\liu\Desktop\CODE\MyMvcFrame\NetB\NetB\obj\Debug\NetB.dll
+C:\Users\liu\Desktop\CODE\MyMvcFrame\NetB\NetB\obj\Debug\NetB.pdb
